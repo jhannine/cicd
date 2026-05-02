@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Hello CI/CD World</h1>";
+echo "<h6>Hello CI/CD World</h6>";
 ?>
