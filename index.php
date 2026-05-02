@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Hello, BSIT-NT</h1>";
+echo "<h1>Hello, it 3202</h1>";
 ?>
